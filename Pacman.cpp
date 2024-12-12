@@ -106,7 +106,7 @@ main()
     while (true)
     {
         system("cls");
-
+ 
         printmaze();
         if (GetAsyncKeyState(VK_UP))
         { 
